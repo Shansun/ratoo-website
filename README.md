@@ -181,3 +181,5 @@ For support or questions about this website:
 ---
 
 **Built with ❤️ for Ratoo - Connecting local businesses with communities**
+
+local Vendor
